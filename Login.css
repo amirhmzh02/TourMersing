@@ -1,0 +1,65 @@
+.container{
+    display: block;
+    padding: 10px;
+   
+}
+
+.submit{
+    background-color:#77cc7b ;
+    color: white;
+    transition: 0.3s;
+    border-radius: 10px;
+    
+}
+
+.submit:hover{
+    opacity: 1;
+    background-color:#4CAF50 ;
+}
+
+fieldset{
+    margin: 0 auto;
+    margin-top: 25px;
+    height: 600px;
+    width: 450px;
+    border-radius: 15px;
+    background-image: url("white.png");
+}
+
+.fieldset2{
+    margin: 0 auto;
+    margin-top: 25px;
+    height: 650px;
+    width: 450px;
+    border-radius: 15px;
+    background-image: url("white.png");
+}
+
+input {
+    width: 400px;
+    height: 40px;
+}
+
+form{
+    padding-top:100px ;
+}
+
+.usename{
+    margin-right: 338px;
+}
+
+.email{
+    margin-right: 358px;
+}
+
+.pass{
+    padding-right: 338px;
+}
+
+.logo{
+    width: 200px;
+}
+
+.aLogin{
+    margin-right: 160px;
+}

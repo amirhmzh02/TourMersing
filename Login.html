@@ -1,0 +1,42 @@
+<?php
+session_start();
+
+//include the DB connections details here
+include("php/Login.php");
+?>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/Login.css">
+    <title>Document</title>
+
+</head>
+<body>
+
+
+    <fieldset>
+        <form action="" align="center" method="POST" action="#">
+            <div class="container">
+                <img class="logo" src="gambar/icon.png" alt="">
+                <label for="" class="email">Email</label><br>
+                <input type="text" name="email" placeholder="Insert Email" required><br> <br>
+
+                <label for="" class="pass">Password</label><br>
+                <input type="password" name="password" placeholder="Insert Password" required><br> <br>
+
+                
+                <input type="submit" value="Login" class="submit" name="Login">
+
+                <p>Dont have an account?</p>
+                <a href="SignUp.html">    sign up now!</a>
+
+            </div>
+        </form> 
+    </fieldset>
+
+</body>
+</html>

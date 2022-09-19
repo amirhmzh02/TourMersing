@@ -1,0 +1,45 @@
+<?php
+session_start();
+
+//include the DB connections details here
+include("php/register.php");
+echo "hello"
+?>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="css/Login.css">
+    <title>Document</title>
+
+</head>
+<body>
+
+    <fieldset class="fieldset2">
+        <form action="" align="center" action="php/connect.php" method="POST">
+            <div class="container">
+                <img class="logo" src="gambar/icon.png" alt="">
+
+                <label for="" class="usename" >Username</label>
+                <input type="text" name="username" id="username" placeholder="Insert Username" required> <br> <br>
+
+                <label for="" class="email" >Email</label><br>
+                <input type="text" name="email" id="email" placeholder="Insert Email" required><br> <br>
+
+                <label for="" class="pass">Password</label><br>
+                <input type="password" name="password" id="password" placeholder="Insert Password" required><br> <br>
+
+                
+                <input type="submit" value="Register" class="submit" name="register" ><br> <br>
+                <a href="Login.html" class="aLogin" >Already have an account? SignUp</a>
+
+            
+            </div>
+        </form> 
+    </fieldset>
+
+</body>
+</html>

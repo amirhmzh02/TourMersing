@@ -1,0 +1,43 @@
+<?php
+session_start();
+
+//include the DB connections details here
+include("php/DataForm.php");
+
+?>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/Login.css">
+</head>
+<body>
+
+    <fieldset>
+        <form action="" align="center" method="POST" action="#">
+            <div class="container">
+
+                <h1>Welcome to Pulau</h1>
+                
+                <label for="" class="from">Where are you form ?</label><br>
+                <input type="text" name="country" id="country" placeholder="Country" required><br> <br>
+
+                <label for="" class="quantity">How many with you ?</label><br>
+                <input type="number" name="quantity" id="quantity"  placeholder="Insert number" required  ><br> <br>
+
+                
+                <input type="submit" value="submit" class="submit" name="sumbit">
+
+
+
+            </div>
+        </form> 
+    </fieldset>
+
+
+    
+</body>
+</html>
