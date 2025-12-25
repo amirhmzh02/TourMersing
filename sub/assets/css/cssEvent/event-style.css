@@ -1,0 +1,201 @@
+
+.event-container {
+    font-family: "Roboto", sans-serif;
+    max-width: 80%;
+    margin: 0 auto;
+  }
+  
+  .event-container h3.year {
+    font-size: 40px;
+    text-align: center;
+    border-bottom: 1px solid #b1b1b1;
+  }
+  
+  .event-container .event {
+    box-shadow: 0 4px 16px -8px rgba(0, 0, 0, 0.4);
+    display: flex;
+    border-radius: 8px;
+    margin: 32px 0;
+  }
+
+  .images
+  {
+    display:inline-block;
+  }
+
+  .event-img
+  {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    max-width: 500px;
+    max-height: 500px;
+    display:inline-block;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  
+  .event .event-left {
+    background: rgb(56, 51, 191);
+    min-width: 82px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #eee;
+    padding: 8px 48px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 8px 0 0 8px;
+  }
+  
+  .event .event-left .date {
+    font-size: 56px;
+  }
+  
+  .event .event-left .month {
+    font-size: 16px;
+    font-weight: normal;
+  }
+  
+  .event .event-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 24px;
+  }
+  
+  .event .event-right h3.event-title {
+    font-size: 24px;
+    margin: 24px 0 10px 0;
+    color: #218bbb;
+    text-transform: uppercase;
+  }
+  
+  .event .event-right .event-timing {
+    background: #218bbb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    padding: 8px;
+    border-radius: 16px;
+    margin: 24px 0;
+    font-size: 14px;
+  }
+  
+  .event .event-right .event-timing img {
+    height: 40px;
+    padding-right: 8px;
+  }
+
+  /* footer {
+    background-color: #bad8f4;
+    margin-top: 80px;
+    padding: 80px 0px 70px 0px;
+    border-top: 1px solid #ddd;
+    max-width: 100%;
+    min-width: 10%;
+  }
+  
+  footer .footer-heading h4 {
+    font-size: 21px;
+    color: #232323;
+    letter-spacing: 0.5px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+  }
+  
+  
+  footer .about-veno .logo {
+    margin-bottom: 40px;
+  }
+  
+  footer .about-veno ul li a {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    text-align: center;
+    line-height: 32px;
+    background-color: #cdcdcd;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #fff;
+    margin-right: 3px;
+    transition: all 0.5s;
+  }
+  
+  footer .about-veno p {
+    margin-bottom: 25px;
+  }
+  
+  footer .about-veno ul li a:hover {
+    background-color: #4883ff;
+  }
+  
+  footer .useful-links ul li {
+    margin-bottom: 12px;
+  }
+  
+  footer .useful-links ul li a {
+    font-size: 15px;
+    color: #7a7a7a;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+    transition: all 0.5s;
+  }
+  
+  footer .useful-links ul li a:hover {
+    color: #4883ff;
+  }
+  
+  footer .useful-links ul li i {
+    color: #4883ff;
+    font-size: 6px;
+    position: relative;
+    top: -3px;
+    margin-right: 8px;
+  }
+  
+  footer .contact-info p {
+    margin-bottom: 25px;
+  }
+  
+  footer .contact-info ul li {
+    margin: 10px 0px;
+  }
+  
+  footer .contact-info ul li span {
+    font-size: 13px;
+    color: #7a7a7a;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    width: 80px;
+    display: inline-block;
+  }
+  
+  footer .contact-info ul li a {
+    font-size: 13px;
+    color: #4883ff;
+    letter-spacing: 0.5px;
+    text-decoration: none;
+  } */
+  
+  @media (max-width: 550px) {
+    .event {
+      flex-direction: column;
+    }
+  
+    .event .event-left {
+      padding: 0;
+      border-radius: 8px 8px 0 0;
+    }
+  
+    .event .event-left .event-date .date,
+    .event .event-left .event-date .month {
+      display: inline-block;
+      font-size: 24px;
+    }
+  
+    .event .event-left .event-date {
+      padding: 10px 0;
+    }
+  }

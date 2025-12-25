@@ -1,0 +1,40 @@
+[11-Oct-2022 12:24:39 UTC] PHP Parse error:  syntax error, unexpected variable "$pass" in /home/etourmer/public_html/booking/toyyibPay/connection.php on line 6
+[11-Oct-2022 13:46:34 UTC] PHP Parse error:  syntax error, unexpected token ">" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 21
+[11-Oct-2022 13:57:19 UTC] PHP Warning:  Array to string conversion in /home/etourmer/public_html/booking/toyyibPay/request.php on line 23
+[12-Oct-2022 07:06:44 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 81
+[12-Oct-2022 07:06:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 81
+[12-Oct-2022 07:06:44 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 82
+[12-Oct-2022 07:06:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 82
+[12-Oct-2022 07:06:44 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 84
+[12-Oct-2022 07:06:44 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 84
+[12-Oct-2022 07:12:38 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 81
+[12-Oct-2022 07:12:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 81
+[12-Oct-2022 07:12:38 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 82
+[12-Oct-2022 07:12:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 82
+[12-Oct-2022 07:12:38 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 84
+[12-Oct-2022 07:12:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 84
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Undefined array key "total" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 35
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Undefined variable $name in /home/etourmer/public_html/booking/toyyibPay/request.php on line 49
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Undefined variable $email in /home/etourmer/public_html/booking/toyyibPay/request.php on line 50
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Undefined variable $phoneNumber in /home/etourmer/public_html/booking/toyyibPay/request.php on line 51
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 77
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 77
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 78
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 78
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 80
+[13-Oct-2022 08:48:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 80
+[14-Oct-2022 07:54:05 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[14-Oct-2022 07:54:47 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[17-Oct-2022 15:36:26 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[17-Oct-2022 15:51:21 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[18-Oct-2022 13:40:20 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[18-Oct-2022 13:40:20 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 77
+[18-Oct-2022 13:40:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 77
+[18-Oct-2022 13:40:20 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 78
+[18-Oct-2022 13:40:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 78
+[18-Oct-2022 13:40:20 UTC] PHP Warning:  Undefined array key 0 in /home/etourmer/public_html/booking/toyyibPay/request.php on line 80
+[18-Oct-2022 13:40:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/booking/toyyibPay/request.php on line 80
+[18-Oct-2022 13:40:40 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[18-Oct-2022 15:38:24 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[04-Nov-2022 15:56:33 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13
+[21-Nov-2022 13:26:04 UTC] PHP Warning:  Undefined array key "numofguests" in /home/etourmer/public_html/booking/toyyibPay/request.php on line 13

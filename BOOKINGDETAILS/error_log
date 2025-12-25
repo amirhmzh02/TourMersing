@@ -1,0 +1,468 @@
+[21-Nov-2022 13:09:29 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[21-Nov-2022 13:09:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[21-Nov-2022 13:09:35 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[21-Nov-2022 13:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[21-Nov-2022 13:09:44 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[21-Nov-2022 13:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[21-Nov-2022 13:09:46 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/etourmer/public_html/assets/php/connect.php:11
+Stack trace:
+#0 /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.html(3): include()
+#1 {main}
+  thrown in /home/etourmer/public_html/assets/php/connect.php on line 11
+[21-Nov-2022 19:26:59 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/etourmer/public_html/assets/php/connect.php:11
+Stack trace:
+#0 /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.html(3): include()
+#1 {main}
+  thrown in /home/etourmer/public_html/assets/php/connect.php on line 11
+[22-Nov-2022 17:36:41 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:36:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 7
+[22-Nov-2022 17:37:17 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 7
+[22-Nov-2022 17:37:20 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 7
+[22-Nov-2022 17:38:04 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 7
+[22-Nov-2022 17:38:52 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:38:54 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:39:11 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:39:25 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:39:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 7
+[22-Nov-2022 17:41:06 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:41:13 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:42:02 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:43:07 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:43:14 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:43:45 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:45:09 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:45:13 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:47:42 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:53:46 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:53:50 UTC] PHP Warning:  Undefined array key "idH" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:59:33 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 17:59:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 7
+[22-Nov-2022 17:59:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 123
+[22-Nov-2022 18:00:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 123
+[22-Nov-2022 18:03:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 124
+[22-Nov-2022 18:04:11 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 18:04:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Nov-2022 18:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 124
+[22-Nov-2022 18:08:12 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 18:08:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Nov-2022 18:10:19 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 18:10:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Nov-2022 18:19:27 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 18:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Nov-2022 18:21:30 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 18:21:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Nov-2022 18:22:19 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Nov-2022 18:22:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[26-Nov-2022 14:12:24 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[26-Nov-2022 14:12:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[29-Nov-2022 00:47:55 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[29-Nov-2022 00:47:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[01-Dec-2022 06:24:39 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[01-Dec-2022 06:24:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[01-Dec-2022 19:40:08 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[01-Dec-2022 19:40:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[03-Dec-2022 09:54:29 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[03-Dec-2022 09:54:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[06-Dec-2022 02:03:10 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[06-Dec-2022 02:03:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[10-Dec-2022 04:42:31 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[10-Dec-2022 04:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[12-Dec-2022 22:46:41 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[12-Dec-2022 22:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[15-Dec-2022 09:44:19 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[15-Dec-2022 09:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[15-Dec-2022 13:53:57 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[15-Dec-2022 13:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[04-Jan-2023 03:11:31 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[04-Jan-2023 03:11:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[09-Jan-2023 08:06:59 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[09-Jan-2023 08:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[20-Jan-2023 05:23:16 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[20-Jan-2023 05:23:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[24-Jan-2023 15:50:35 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[24-Jan-2023 15:50:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[24-Jan-2023 15:52:58 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[24-Jan-2023 15:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[24-Jan-2023 23:32:23 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[24-Jan-2023 23:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[25-Jan-2023 00:05:17 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[25-Jan-2023 00:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[26-Jan-2023 02:45:51 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[26-Jan-2023 02:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[29-Jan-2023 13:56:23 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[29-Jan-2023 13:56:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[31-Jan-2023 11:14:50 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[31-Jan-2023 11:14:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[08-Feb-2023 05:34:01 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[08-Feb-2023 05:34:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[19-Feb-2023 02:46:20 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[19-Feb-2023 02:46:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[19-Feb-2023 13:32:52 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[19-Feb-2023 13:32:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[15-Mar-2023 16:00:54 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[15-Mar-2023 16:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[29-Mar-2023 13:19:11 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[29-Mar-2023 13:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[31-Mar-2023 04:56:01 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[31-Mar-2023 04:56:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[02-Apr-2023 03:58:57 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[02-Apr-2023 03:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[23-Apr-2023 10:35:41 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[23-Apr-2023 10:35:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[08-May-2023 17:23:37 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[08-May-2023 17:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[08-May-2023 17:23:41 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[08-May-2023 17:23:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[08-May-2023 17:23:43 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[08-May-2023 17:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[08-May-2023 17:23:45 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[08-May-2023 17:23:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Jun-2023 21:34:16 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Jun-2023 21:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Jun-2023 21:34:16 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[22-Jun-2023 21:34:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[22-Jun-2023 21:34:18 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[22-Jun-2023 21:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[22-Jun-2023 21:34:18 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[22-Jun-2023 21:34:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[28-Jul-2023 17:39:31 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[28-Jul-2023 17:39:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[11-Sep-2023 05:18:04 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[11-Sep-2023 05:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[24-Oct-2023 08:06:51 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[24-Oct-2023 08:06:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[24-Oct-2023 12:46:36 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[24-Oct-2023 12:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[02-Dec-2023 04:02:50 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[02-Dec-2023 04:02:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[02-Dec-2023 07:53:41 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[02-Dec-2023 07:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[10-Jan-2024 07:00:19 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[10-Jan-2024 07:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[10-Jan-2024 12:04:52 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[10-Jan-2024 12:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[06-Feb-2024 17:39:37 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[06-Feb-2024 17:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[07-Feb-2024 01:41:57 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/etourmer/public_html/assets/php/connect.php:11
+Stack trace:
+#0 /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.html(3): include()
+#1 {main}
+  thrown in /home/etourmer/public_html/assets/php/connect.php on line 11
+[07-Feb-2024 12:17:19 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[07-Feb-2024 12:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[15-Feb-2024 19:09:35 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[15-Feb-2024 19:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[07-Apr-2024 06:21:11 UTC] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in /home/etourmer/public_html/assets/php/connect.php:11
+Stack trace:
+#0 /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.html(3): include()
+#1 {main}
+  thrown in /home/etourmer/public_html/assets/php/connect.php on line 11
+[18-Apr-2024 13:01:33 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[18-Apr-2024 13:01:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[15-May-2024 01:56:15 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[15-May-2024 01:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[25-May-2024 04:32:38 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[25-May-2024 04:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[26-May-2024 07:51:16 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[26-May-2024 07:51:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[26-May-2024 07:51:18 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[26-May-2024 07:51:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[11-Jun-2024 10:49:03 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[11-Jun-2024 10:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[11-Jun-2024 12:53:08 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[11-Jun-2024 12:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[23-Jun-2024 09:40:45 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[23-Jun-2024 09:40:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[25-Jun-2024 14:39:35 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[25-Jun-2024 14:39:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[15-Jul-2024 18:04:58 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[15-Jul-2024 18:04:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[16-Jul-2024 18:50:47 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[16-Jul-2024 18:50:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[18-Jul-2024 02:52:18 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[18-Jul-2024 02:52:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[27-Aug-2024 01:18:58 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[27-Aug-2024 01:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[06-Sep-2024 01:54:24 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[06-Sep-2024 01:54:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[06-Sep-2024 03:04:52 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[06-Sep-2024 03:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[15-Sep-2024 18:57:35 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[15-Sep-2024 18:57:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[15-Sep-2024 21:22:36 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[15-Sep-2024 21:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[18-Sep-2024 02:41:32 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[18-Sep-2024 02:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[23-Sep-2024 08:19:59 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[23-Sep-2024 08:19:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[26-Oct-2024 05:16:14 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[26-Oct-2024 05:16:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[26-Oct-2024 06:30:13 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[26-Oct-2024 06:30:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[31-Oct-2024 14:09:14 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[31-Oct-2024 14:09:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8
+[06-Nov-2024 21:41:00 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 4
+[06-Nov-2024 21:41:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/bookingdetails.php on line 7
+[07-Nov-2024 02:10:47 UTC] PHP Warning:  Undefined array key "id" in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 4
+[07-Nov-2024 02:10:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/BOOKINGDETAILS/HoppingDetail.php on line 8

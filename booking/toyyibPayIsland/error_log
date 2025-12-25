@@ -1,0 +1,12 @@
+[14-Oct-2022 08:39:47 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /home/etourmer/public_html/booking/toyyibPayIsland/request.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/booking/toyyibPayIsland/request.php on line 79
+[14-Oct-2022 08:40:52 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /home/etourmer/public_html/booking/toyyibPayIsland/request.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/booking/toyyibPayIsland/request.php on line 79
+[14-Oct-2022 09:04:37 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string + int in /home/etourmer/public_html/booking/toyyibPayIsland/request.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/etourmer/public_html/booking/toyyibPayIsland/request.php on line 79

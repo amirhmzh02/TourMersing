@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+   }
+   
+   a {
+    text-decoration: none;
+    color: black;
+   } 
+   
+   #down {
+    margin-top: 5%;
+    padding-bottom: 10%;
+} 

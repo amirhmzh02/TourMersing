@@ -1,0 +1,288 @@
+/*
+
+Venue Template
+
+http://www.templatemo.com/tm-522-venue
+
+*/
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 13px;
+  color: #7a7a7a;
+  line-height: 24px;
+  left: 0.25px;
+}
+
+section {
+  padding-top: 50px;
+}
+
+
+.section-heading {
+  text-align: center;
+  margin-top : 80px;
+  margin-bottom: 5px;
+}
+
+.section-heading span {
+  font-size: 17px;
+  display: block;
+  margin-bottom: 30px;
+  color: #4883ff;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.section-heading h2 {
+  line-height: 40px;
+  margin-top: 0px;
+  margin-bottom: 3px; 
+  border-bottom: 1px solid rgba(250,250,250,0.15);
+  font-size: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: rgb(116, 105, 105);
+}
+
+
+.blue-button a {
+  display: inline-block;
+  background-color: #4883ff;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 10px 16px;
+  text-decoration: none;
+  border: 2px solid #4883ff;
+  transition: all 0.5s;
+}
+
+.blue-button a:hover {
+  background-color: transparent;
+  color: #4883ff;
+}
+
+
+
+
+
+
+section.featured-places {
+  margin-top: 80px;
+  padding-bottom: 80px;
+  background-color: #222;
+}
+
+.featured-places .featured-item .thumb {
+  position: relative;
+  z-index: 1;
+  padding-top: 40px;
+}
+
+.featured-places .featured-item .thumb img {
+  width: 100%;
+  overflow: hidden;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.featured-places .featured-item .thumb .overlay-content {
+  position: absolute;
+  z-index: 9;
+  top: 30px;
+  left: 30px;
+  color: #fff;
+}
+
+.featured-places .featured-item .thumb .overlay-content li {
+  display: inline;
+  margin-right: 3px;
+}
+
+.featured-places .featured-item .thumb .date-content {
+  position: absolute;
+  z-index: 9;
+  top: 30px;
+  right: 30px;
+  color: #fff;
+  text-align: center;
+  width: 90px;
+  height: 90px;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #4883ff;
+  border-radius: 50%;
+}
+
+.featured-places .featured-item .thumb .date-content h6 {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 18px;
+  margin-bottom: 5px;
+  letter-spacing: 0.5px;
+}
+
+.featured-places .featured-item .thumb .date-content span {
+  font-size: 12px;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: block;
+  letter-spacing: 0.5px;
+}
+
+.featured-places .featured-item .down-content {
+  background-color: #fff;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.1);
+  padding: 20px 20px 0px 20px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  
+}
+
+.featured-places .featured-item .down-content h4 {
+  margin-top: 0px;
+  font-size: 19px;
+  font-weight: 600;
+  color: #232323;
+  margin-bottom: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.featured-places .featured-item .down-content span {
+  display: block;
+  font-size: 13px;
+  color: #4883ff;
+  margin-bottom: 15px;
+}
+
+.featured-places .featured-item .down-content p {
+  margin-bottom: 20px;
+}
+
+.featured-places .featured-item .down-content .col-md-6 {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.featured-places .featured-item .down-content .text-button {
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+  border-top: 1px solid #ddd;
+  margin: 0px -5px;
+}
+
+.featured-places .featured-item .down-content .text-button a {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #7a7a7a;           /*color text */
+  letter-spacing: 0.5px;
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  transition: all 0.5s;
+}
+
+.featured-places .featured-item .down-content .text-button a:hover {
+  color: white;
+  
+
+}
+
+.featured-places .featured-item .down-content .first-button {
+  border-right: 1px solid #ddd;
+  margin-left: 0px;
+}
+
+.featured-places .featured-item .down-content .first-button:hover {
+  background-color: #4883ff;
+  
+}
+
+.featured-places .featured-item .down-content .second-button {
+  
+  margin-left: 0px;
+}
+
+.featured-places .featured-item .down-content .second-button:hover {
+  background-color: #4883ff;
+  
+}
+
+
+
+
+
+@media (max-width:992px) {
+
+  .banner .banner-caption {
+    padding: 200px 30px;
+  }
+
+  .submit-form input {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px;
+  }
+
+  .submit-form select {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    border-radius: 0px;
+  }
+
+  .featured-places .featured-item {
+    margin-bottom: 30px;
+  }
+
+  .featured-places .featured-item .down-content .first-button {
+    border-right: none;
+  }
+
+  section.our-services .service-item {
+    margin-bottom: 30px;
+  }
+
+  .down-services .left-content {
+    margin-bottom: 60px;
+  }
+
+  #video-container .video-content {
+    padding: 0 30px;
+    text-align: center;
+  }
+
+  .table-item {
+    margin-bottom: 30px;
+  }
+
+  .modal-content {
+    width: 90%;
+  }
+  .modal-content .close {
+    right: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -30px;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+  }
+
+  footer .useful-links {
+    margin-top: 60px;
+  }
+
+  footer .contact-info {
+    margin-top: 60px;
+  }
+  
+}

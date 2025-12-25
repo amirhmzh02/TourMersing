@@ -1,0 +1,42 @@
+.feedback {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .feedback td, .feedback th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .feedback tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .feedback tr:hover {background-color: #ddd;}
+  
+  .feedback th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #36b9cc;
+    color: white;
+  }
+
+  table{
+    border-radius: 10px;
+
+  }
+
+  .center {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+  }
+
+  tr input{
+    margin:auto;
+    display:block;
+    border-radius: 5px;
+    border-color: transparent;
+    color:#f2f2f2;
+    font-weight: 600;
+  }

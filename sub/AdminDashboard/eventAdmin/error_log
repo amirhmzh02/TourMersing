@@ -1,0 +1,23 @@
+[21-Nov-2022 13:52:30 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php on line 9
+[21-Nov-2022 13:52:30 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php:15
+Stack trace:
+#0 /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php(15): mysqli->set_charset()
+#1 /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php(33): include('/home/etourmer/...')
+#2 {main}
+  thrown in /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php on line 15
+[21-Nov-2022 14:02:37 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php on line 9
+[21-Nov-2022 14:02:37 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php:15
+Stack trace:
+#0 /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php(15): mysqli->set_charset()
+#1 /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php(33): include('/home/etourmer/...')
+#2 {main}
+  thrown in /home/etourmer/public_html/AdminDashboard/eventAdmin/connection.php on line 15
+[21-Nov-2022 14:03:35 UTC] PHP Warning:  Undefined array key "user" in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 35
+[21-Nov-2022 14:05:27 UTC] PHP Warning:  Undefined array key "user" in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 35
+[21-Nov-2022 14:05:29 UTC] PHP Warning:  Undefined array key "user" in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 35
+[21-Nov-2022 14:05:40 UTC] PHP Warning:  Undefined array key "user" in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 35
+[21-Nov-2022 17:18:47 UTC] PHP Warning:  Undefined array key "user" in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 35
+[21-Nov-2022 17:19:11 UTC] PHP Warning:  Undefined array key "user" in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 35
+[21-Nov-2022 18:39:50 UTC] PHP Warning:  Undefined array key "user" in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 35
+[21-Nov-2022 18:39:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 43
+[21-Nov-2022 18:39:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/etourmer/public_html/AdminDashboard/eventAdmin/event.php on line 49

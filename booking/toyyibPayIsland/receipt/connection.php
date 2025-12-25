@@ -1,0 +1,23 @@
+<?php
+
+    
+$host       = "localhost";
+$user       = "etourmer_admin";
+$pass       = "@3tourM3rsing";
+$database   = "etourmer_etourmersing";
+
+    //Connection to database
+
+    $conn = mysqli_connect($host, $user, $pass, $database);
+
+    if(!$conn){
+        die('connetion failed :' . mysqli_connect_error()); 
+        
+
+    }else{
+        $conn->set_charset('utf8mb4');
+        echo '<script>console.log("connection passed")</script>';
+    }
+
+
+?>
